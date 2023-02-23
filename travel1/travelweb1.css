@@ -82,7 +82,7 @@ header.sticky{
     transition: all 0.4s ease;
 }
 
-@media screen and (max-width : 1200px){
+@media screen and (max-width:1200px){
     .logo{
         font-size: 27px;
     }
@@ -92,7 +92,7 @@ header.sticky{
         font-size: 21px;
     }    
 }
-@media screen and (max-width : 992px){
+@media screen and (max-width:992px){
     header{
         padding: 16px 5%;
     }
@@ -223,7 +223,7 @@ section{
 .home-btn:hover{
     transform: scale(1.1);
 }
-@media screen and (max-width : 992px){
+@media screen and (max-width:992px){
     section{
         padding: 120px 14%;
     }
